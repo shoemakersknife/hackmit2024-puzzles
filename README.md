@@ -1,4 +1,4 @@
-* these are some old scripts from back in 2024 for hexhunt.
+* the majority of these old scripts were from 2024 to solve hexhunt.
 
 * hexhunt was one of two puzzles i couldnt complete, though i still got a highly optimized solution above 3000. [hexscores.txt](hexscores.txt)
 
